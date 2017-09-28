@@ -1,12 +1,13 @@
 body {
   background-color: rgba(193, 154, 107, 0.85);
   color: rgb(102, 73, 43);
-  font-family: Inconsolata, sans-serif;
+  font-family: Corbel, sans-serif;
 }
 
 h1 {
     font-size: 30px;
     text-align: center;
+    font-family: Century Gothic, sans-serif;
 }
 
 ul {
