@@ -1,0 +1,30 @@
+body {
+  background-color: rgba(193, 154, 107, 0.85);
+  color: rgb(102, 73, 43);
+  font-family: Consolas, monospace, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+ul {
+    font-size: 20px;
+    text-align: left;
+}
+
+span {
+    font-weight: 600;
+    font-size: 22px;
+}
+
+img {
+    float: right;
+    margin-left: 50px;
+}
+
+footer {
+  margin-top: 100px;
+  text-align: right;
+}
